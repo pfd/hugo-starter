@@ -7,3 +7,6 @@ draft: true
 ## Testing drafts
 
 This is a draft post. It should not show in production because `draft` is set to `true`.
+
+
+{{< env >}}
