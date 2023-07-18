@@ -1,0 +1,4 @@
+baseURL = "/"
+
+buildFuture = false
+buildDrafts = false
